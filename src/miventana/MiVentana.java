@@ -7,7 +7,7 @@ public class MiVentana extends JFrame{
     
     public MiVentana(String titulo) {
         super (titulo);
-        setSize(300, 300);
+        setSize(400, 300);
         setLayout(new FlowLayout());
         setLayout(new BorderLayout());
         
